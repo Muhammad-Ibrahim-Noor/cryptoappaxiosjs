@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cryptoappaxiosjs/static/css/main.f51dbdde.css",
+    "main.js": "/cryptoappaxiosjs/static/js/main.950ff584.js",
+    "index.html": "/cryptoappaxiosjs/index.html",
+    "main.f51dbdde.css.map": "/cryptoappaxiosjs/static/css/main.f51dbdde.css.map",
+    "main.950ff584.js.map": "/cryptoappaxiosjs/static/js/main.950ff584.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f51dbdde.css",
+    "static/js/main.950ff584.js"
+  ]
+}
